@@ -1,0 +1,57 @@
+[
+  {
+    "NombreProducto": "Leche",
+    "CodigoProducto": "1",
+    "CodCat": "1"
+  },
+  {
+    "NombreProducto": "Arroz",
+    "CodigoProducto": "2",
+    "CodCat": "2"
+  },
+  {
+    "NombreProducto": "Queso",
+    "CodigoProducto": "3",
+    "CodCat": "1"
+  },
+  {
+    "NombreProducto": "Pollo",
+    "CodigoProducto": "4",
+    "CodCat": "3"
+  },
+  {
+    "NombreProducto": "Gaseosa",
+    "CodigoProducto": "5",
+    "CodCat": "4"
+  },
+  {
+    "NombreProducto": "Jabón",
+    "CodigoProducto": "6",
+    "CodCat": "5"
+  },
+  {
+    "NombreProducto": "Frijol",
+    "CodigoProducto": "7",
+    "CodCat": "2"
+  },
+  {
+    "NombreProducto": "Crema dental",
+    "CodigoProducto": "8",
+    "CodCat": "5"
+  },
+  {
+    "NombreProducto": "Jamón",
+    "CodigoProducto": "9",
+    "CodCat": "3"
+  },
+  {
+    "NombreProducto": "Tequila",
+    "CodigoProducto": "10",
+    "CodCat": "4"
+  },
+  {
+    "NombreProducto": "Kumis",
+    "CodigoProducto": "11",
+    "CodCat": "1"
+  }
+]

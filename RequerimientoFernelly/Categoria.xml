@@ -1,0 +1,22 @@
+﻿<CategoriaTodas>
+  <Categoria>
+    <NombreCategoria>Lacteos</NombreCategoria>
+    <CodigoCategoria>1</CodigoCategoria>
+  </Categoria>
+  <Categoria>
+    <NombreCategoria>Granos</NombreCategoria>
+    <CodigoCategoria>2</CodigoCategoria>
+  </Categoria>
+  <Categoria>
+    <NombreCategoria>Carnes</NombreCategoria>
+    <CodigoCategoria>3</CodigoCategoria>
+  </Categoria>
+  <Categoria>
+    <NombreCategoria>Bebidas</NombreCategoria>
+    <CodigoCategoria>4</CodigoCategoria>
+  </Categoria>
+  <Categoria>
+    <NombreCategoria>Aseo</NombreCategoria>
+    <CodigoCategoria>5</CodigoCategoria>
+  </Categoria>
+</CategoriaTodas>
